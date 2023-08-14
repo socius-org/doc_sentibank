@@ -1,0 +1,34 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts: 
+  - caption: SentiBank 
+    chapters: 
+    - file: SentiBank/Introduction
+    - file: SentiBank/Getting_Started
+    - file: SentiBank/Archive
+      sections: 
+      - file: SentiBank/AFINN
+      - file: SentiBank/Aigents
+      - file: SentiBank/General Inquirer
+      - file: SentiBank/MASTER
+      - file: SentiBank/VADER
+    - file: SentiBank/Contributions
+  # - caption: CompliSent/Sentium  
+  #   chapters: 
+  #   - file: CompliSent/AFINN
+  #   - file: CompliSent/Aigents
+  #   - file: CompliSent/LIWC
+  #   - file: CompliSent/MASTER
+  #   - file: CompliSent/VADER
+
+# AFINN 
+# Aigents 
+# General Inquirer 
+# MASTER
+# SentiWordNet
+# SO-CAL 
+# VADER
+# WordNet Affect 
