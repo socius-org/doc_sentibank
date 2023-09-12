@@ -15,6 +15,7 @@ parts:
       - file: SentiBank/General Inquirer
       - file: SentiBank/MASTER
       - file: SentiBank/VADER
+      - file: SentiBank/WordNet-Affect
     - file: SentiBank/Contributions
   # - caption: CompliSent/Sentium  
   #   chapters: 
