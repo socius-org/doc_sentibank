@@ -1,6 +1,12 @@
 # Contributions
 
-SentiBank is an open source project that encourages participation from the social science communities. This section provides guidelines for contributing new lexicons, requesting modifications, and contributing to the codebase.
+Open collaboration with the community is at the core of our vision. We firmly believe that the power of collective intelligence can drive transformative progress in sentiment analysis. We value the insights and expertise of the wider community, and we actively encourage contributions from researchers, scholars, and practitioners alike.
+
+We invite users to actively participate in shaping the future of SentiBank by suggesting additions and requesting new sentiment lexicons. Your input is invaluable in ensuring that SentiBank remains comprehensive and up-to-date, reflecting the ever-evolving landscape of sentiments across diverse domains.
+
+Moreover, we welcome the opportunity to collaborate with passionate individuals and teams to create entirely new sets of sentiment dictionaries. Whether you're an expert in a specific field, a data enthusiast, or simply someone with a passion for emotions and data, there's a place for you at SentiBank.
+
+This section provides guidelines for contributing new lexicons, requesting modifications, and contributing to the codebase.
 
 ## Sharing New Lexicons
 

@@ -1,4 +1,4 @@
 jupyter-book
 matplotlib
 itable 
-sentibank 
+sentibank
