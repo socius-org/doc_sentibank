@@ -4,19 +4,20 @@
 format: jb-book
 root: intro
 parts: 
-  - caption: SentiBank 
+  - caption: sentibank 
     chapters: 
-    - file: SentiBank/Introduction
-    - file: SentiBank/Getting_Started
-    - file: SentiBank/Archive
+    - file: sentibank/Introduction
+    - file: sentibank/Getting_Started
+    - file: sentibank/Archive
       sections: 
-      - file: SentiBank/AFINN
-      - file: SentiBank/Aigents
-      - file: SentiBank/General Inquirer
-      - file: SentiBank/MASTER
-      - file: SentiBank/VADER
-      - file: SentiBank/WordNet-Affect
-    - file: SentiBank/Contributions
+      - file: sentibank/AFINN
+      - file: sentibank/Aigents
+      - file: sentibank/General Inquirer
+      - file: sentibank/MASTER
+      - file: sentibank/SentiWordNet
+      - file: sentibank/VADER
+      - file: sentibank/WordNet-Affect
+    - file: sentibank/Contributions
   # - caption: CompliSent/Sentium  
   #   chapters: 
   #   - file: CompliSent/AFINN
