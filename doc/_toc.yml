@@ -13,6 +13,7 @@ parts:
       - file: sentibank/AFINN
       - file: sentibank/Aigents
       - file: sentibank/General Inquirer
+      - file: sentibank/Henry 
       - file: sentibank/MASTER
       - file: sentibank/SentiWordNet
       - file: sentibank/VADER
