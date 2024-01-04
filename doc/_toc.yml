@@ -15,6 +15,7 @@ parts:
       - file: sentibank/General Inquirer
       - file: sentibank/Henry 
       - file: sentibank/MASTER
+      - file: sentibank/OpinionLexicon
       - file: sentibank/SentiWordNet
       - file: sentibank/VADER
       - file: sentibank/WordNet-Affect
