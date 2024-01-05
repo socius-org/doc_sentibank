@@ -1,6 +1,6 @@
 # Archive
 
-The Archive provides in-depth documentation on all dictionaries currently included in SentiBank. This enables users to evaluate and select the optimal lexicons for their use case. 
+The Archive provides in-depth documentation on all dictionaries currently included in `sentibank``. This enables users to evaluate and select the optimal lexicons for their use case. 
 
 Each lexicon documentation starts with a high-level summary that covers the following key details:
 Overview - History, background, and purpose of the lexicon
