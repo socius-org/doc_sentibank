@@ -18,9 +18,11 @@ parts:
       - file: sentibank/General Inquirer
       - file: sentibank/Henry 
       - file: sentibank/MASTER
+      - file: sentibank/NoVAD
       - file: sentibank/OpinionLexicon
       - file: sentibank/SentiWordNet
       - file: sentibank/VADER
+      - file: sentibank/Warriner
       - file: sentibank/WordNet-Affect
     - file: sentibank/Contributions
   # - caption: CompliSent/Sentium  
