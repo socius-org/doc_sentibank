@@ -20,9 +20,10 @@ parts:
       - file: sentibank/MASTER
       - file: sentibank/NoVAD
       - file: sentibank/OpinionLexicon
+      - file: sentibank/SenticNet
       - file: sentibank/SentiWordNet
+      - file: sentibank/SO-CAL
       - file: sentibank/VADER
-      - file: sentibank/Warriner
       - file: sentibank/WordNet-Affect
     - file: sentibank/Contributions
   # - caption: CompliSent/Sentium  
